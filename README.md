@@ -560,7 +560,7 @@ div .button_1 {
  <div class="row laptop">
 
   <div class="col-sm-4">
-    <img class="thumbnail" src="pic3.jpg" alt="">
+    <img class="thumbnail" src="pic.jpg" alt="">
 <div class="box-element product">
     <h4><strong>Acer Nitro 5</strong></h4>
     <span class="fa fa-star checked"></span>
