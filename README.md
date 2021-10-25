@@ -522,9 +522,9 @@ div .button_1 {
   </div>
 
 <div class="col-sm-4">
-    <img class="thumbnail" src="pic6.jpeg" alt="">
+    <img class="thumbnail" src="pic4.jpg" alt="">
     <div class="box-element product">
-    <h4><strong>New Vostro 15 </strong></h4>
+    <h4><strong>HP</strong></h4>
     <span class="fa fa-star checked"></span>
 <span class="fa fa-star checked"></span>
 <span class="fa fa-star checked"></span>
@@ -560,7 +560,7 @@ div .button_1 {
  <div class="row laptop">
 
   <div class="col-sm-4">
-    <img class="thumbnail" src="pic.jpg" alt="">
+    <img class="thumbnail" src="pic3.jpg" alt="">
 <div class="box-element product">
     <h4><strong>Acer Nitro 5</strong></h4>
     <span class="fa fa-star checked"></span>
