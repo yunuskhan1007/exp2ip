@@ -522,7 +522,7 @@ div .button_1 {
   </div>
 
 <div class="col-sm-4">
-    <img class="thumbnail" src="pic4.jpg" alt="">
+    <img class="thumbnail" src="https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ7W_p34HLk0sX81NGyTaIgaDRoNLPK-pFNMehT1qB-gjcymNUKq0y_l3Zv7dkQVXucgxFdgaOsrw&usqp=CAc" alt="">
     <div class="box-element product">
     <h4><strong>HP</strong></h4>
     <span class="fa fa-star checked"></span>
