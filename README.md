@@ -522,7 +522,7 @@ div .button_1 {
   </div>
 
 <div class="col-sm-4">
-    <img class="thumbnail" src="pic21.webp" alt="">
+    <img class="thumbnail" src="pic2.webp" alt="">
     <div class="box-element product">
     <h4><strong>New Vostro 15 </strong></h4>
     <span class="fa fa-star checked"></span>
