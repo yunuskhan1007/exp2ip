@@ -557,34 +557,36 @@ div .button_1 {
 
 
 
- <div class="row laptop">
+<div class="row first_row">
 
   <div class="col-sm-4">
-    <img class="thumbnail" src="pic3.jpg" alt="">
+    <img class="thumbnail" src="pic.jfif" alt="">
 <div class="box-element product">
-    <h4><strong>Acer Nitro 5</strong></h4>
+    <h4><strong>Inspiron 15 Laptop</strong></h4>
     <span class="fa fa-star checked"></span>
 <span class="fa fa-star checked"></span>
 <span class="fa fa-star checked"></span>
 <span class="fa fa-star checked"></span>
 <span class="fa fa-star"></span>
-<h5><strong>Price ₹66,990</strong></h5>
+<h5><strong>Price ₹49,989.99</strong></h5>
+
 <button class="btn btn-success">Add to Cart</button>
 &nbsp;
 <button class="btn btn-success">Buy Now</button>
+
     </div>
   </div>
 
 <div class="col-sm-4">
-    <img class="thumbnail" src="pic5.jpeg" alt="">
+    <img class="thumbnail" src="https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ7W_p34HLk0sX81NGyTaIgaDRoNLPK-pFNMehT1qB-gjcymNUKq0y_l3Zv7dkQVXucgxFdgaOsrw&usqp=CAc" alt="">
     <div class="box-element product">
-    <h4><strong>HP ProBook 440 G6</strong></h4>
+    <h4><strong>HP</strong></h4>
     <span class="fa fa-star checked"></span>
 <span class="fa fa-star checked"></span>
 <span class="fa fa-star checked"></span>
 <span class="fa fa-star checked"></span>
 <span class="fa fa-star"></span>
-<h5><strong>Price ₹61,990 </strong></h5>
+<h5><strong>Price ₹59,990.03</strong></h5>
 <button class="btn btn-success">Add to Cart</button>
 &nbsp;
 <button class="btn btn-success">Buy Now</button>
@@ -592,21 +594,21 @@ div .button_1 {
   </div>
 
 <div class="col-sm-4">
-    <img class="thumbnail" src="pic9.jpeg" alt="">
+    <img class="thumbnail" src="pic2.jpg" alt="">
       <div class="box-element product">
-    <h4><strong>APPLE MacBook Air</strong></h4>
+    <h4><strong>ASUS Chromebook</strong></h4>
     <span class="fa fa-star checked"></span>
 <span class="fa fa-star checked"></span>
 <span class="fa fa-star checked"></span>
 <span class="fa fa-star checked"></span>
 <span class="fa fa-star checked"></span>
-<h5><strong>Price ₹1,14,990</strong></h5>
+<h5><strong>Price ₹24,999</strong></h5>
 <button class="btn btn-success">Add to Cart</button>
 &nbsp;
 <button class="btn btn-success">Buy Now</button>
     </div>
   </div>
-<a class="text-center" href="laptop.html">View More</a>
+
 </div>
 
 
