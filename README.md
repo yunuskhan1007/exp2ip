@@ -557,57 +557,7 @@ div .button_1 {
 
 
 
- <div class="row laptop">
-
-  <div class="col-sm-4">
-    <img class="thumbnail" src="pic3.jpg" alt="">
-<div class="box-element product">
-    <h4><strong>Acer Nitro 5</strong></h4>
-    <span class="fa fa-star checked"></span>
-<span class="fa fa-star checked"></span>
-<span class="fa fa-star checked"></span>
-<span class="fa fa-star checked"></span>
-<span class="fa fa-star"></span>
-<h5><strong>Price ₹66,990</strong></h5>
-<button class="btn btn-success">Add to Cart</button>
-&nbsp;
-<button class="btn btn-success">Buy Now</button>
-    </div>
-  </div>
-
-<div class="col-sm-4">
-    <img class="thumbnail" src="pic5.jpeg" alt="">
-    <div class="box-element product">
-    <h4><strong>HP ProBook 440 G6</strong></h4>
-    <span class="fa fa-star checked"></span>
-<span class="fa fa-star checked"></span>
-<span class="fa fa-star checked"></span>
-<span class="fa fa-star checked"></span>
-<span class="fa fa-star"></span>
-<h5><strong>Price ₹61,990 </strong></h5>
-<button class="btn btn-success">Add to Cart</button>
-&nbsp;
-<button class="btn btn-success">Buy Now</button>
-    </div>
-  </div>
-
-<div class="col-sm-4">
-    <img class="thumbnail" src="pic9.jpeg" alt="">
-      <div class="box-element product">
-    <h4><strong>APPLE MacBook Air</strong></h4>
-    <span class="fa fa-star checked"></span>
-<span class="fa fa-star checked"></span>
-<span class="fa fa-star checked"></span>
-<span class="fa fa-star checked"></span>
-<span class="fa fa-star checked"></span>
-<h5><strong>Price ₹1,14,990</strong></h5>
-<button class="btn btn-success">Add to Cart</button>
-&nbsp;
-<button class="btn btn-success">Buy Now</button>
-    </div>
-  </div>
-<a class="text-center" href="laptop.html">View More</a>
-</div>
+ 
 
 
 
