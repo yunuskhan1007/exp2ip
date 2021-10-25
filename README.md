@@ -522,9 +522,9 @@ div .button_1 {
   </div>
 
 <div class="col-sm-4">
-    <img class="thumbnail" src="https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ7W_p34HLk0sX81NGyTaIgaDRoNLPK-pFNMehT1qB-gjcymNUKq0y_l3Zv7dkQVXucgxFdgaOsrw&usqp=CAc" alt="">
+    <img class="thumbnail" src="pic1.webp" alt="">
     <div class="box-element product">
-    <h4><strong>HP</strong></h4>
+    <h4><strong>New Vostro 15 </strong></h4>
     <span class="fa fa-star checked"></span>
 <span class="fa fa-star checked"></span>
 <span class="fa fa-star checked"></span>
@@ -557,23 +557,21 @@ div .button_1 {
 
 
 
-<div class="row first_row">
+ <div class="row laptop">
 
   <div class="col-sm-4">
-    <img class="thumbnail" src="pic.jfif" alt="">
+    <img class="thumbnail" src="pic3.jpg" alt="">
 <div class="box-element product">
-    <h4><strong>Inspiron 15 Laptop</strong></h4>
+    <h4><strong>Acer Nitro 5</strong></h4>
     <span class="fa fa-star checked"></span>
 <span class="fa fa-star checked"></span>
 <span class="fa fa-star checked"></span>
 <span class="fa fa-star checked"></span>
 <span class="fa fa-star"></span>
-<h5><strong>Price ₹49,989.99</strong></h5>
-
+<h5><strong>Price ₹66,990</strong></h5>
 <button class="btn btn-success">Add to Cart</button>
 &nbsp;
 <button class="btn btn-success">Buy Now</button>
-
     </div>
   </div>
 
