@@ -769,57 +769,6 @@ div .button_1 {
 
 
 
-<div class="row mobile">
-
-  <div class="col-sm-4">
-    <img class="thumbnail" src="https://images.unsplash.com/photo-1591447337751-c7b95cf704ba?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=642&q=80" alt="">
-<div class="box-element product">
-    <h4><strong>Samsung Galaxy</strong></h4>
-    <span class="fa fa-star checked"></span>
-<span class="fa fa-star checked"></span>
-<span class="fa fa-star checked"></span>
-<span class="fa fa-star checked"></span>
-<span class="fa fa-star"></span>
-<h5><strong>Price ₹19,999</strong></h5>
-<button class="btn btn-success">Add to Cart</button>
-&nbsp;
-<button class="btn btn-success">Buy Now</button>
-    </div>
-  </div>
-
-<div class="col-sm-4">
-    <img class="thumbnail" src="https://motorolaus.vtexassets.com/assets/vtex.file-manager-graphql/images/8154faeb-c6fe-4d0b-a688-d4d579b6b5b4___1056e5e04936d0efcfa4e1b9d5fe66e1.png" alt="">
-    <div class="box-element product">
-    <h4><strong>Google Pixel 4a</strong></h4>
-    <span class="fa fa-star checked"></span>
-<span class="fa fa-star checked"></span>
-<span class="fa fa-star checked"></span>
-<span class="fa fa-star checked"></span>
-<span class="fa fa-star"></span>
-<h5><strong>Price ₹31,999</strong></h5>
-<button class="btn btn-success">Add to Cart</button>
-&nbsp;
-<button class="btn btn-success">Buy Now</button>
-    </div>
-  </div>
-
-<div class="col-sm-4">
-    <img class="thumbnail" src="https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note-7-1.jpg" alt="">
-      <div class="box-element product">
-    <h4><strong>Xiaomi Redmi Note 7</strong></h4>
-    <span class="fa fa-star checked"></span>
-<span class="fa fa-star checked"></span>
-<span class="fa fa-star checked"></span>
-<span class="fa fa-star checked"></span>
-<span class="fa fa-star checked"></span>
-<h5><strong>Price ₹10,490</strong></h5>
-<button class="btn btn-success">Add to Cart</button>
-&nbsp;
-<button class="btn btn-success">Buy Now</button>
-    </div>
-  </div>
- <a class="text-center" href="mobile.html">View More</a>
-</div>
 
 
 <!-- footer -->
